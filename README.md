@@ -1,2 +1,2 @@
-# Hull
-Convex hull and concave hull
+# DBN and KNN
+Deep Belief Network and K-Nearest Neighbor
